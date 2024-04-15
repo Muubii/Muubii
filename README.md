@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sam and I'm a Software Develloper Student in ROC Almere from the Netherlands.</h2>
+<h2 align="left">Hi 👋! My name is Sam and I'm a Software Develloper from the Netherlands.</h2>
 
 ###
 
@@ -39,6 +39,14 @@
   </a>
   <a href="siu7279@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/simiboys">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=simiboys&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
