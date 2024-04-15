@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sam and I'm a Software Develloper from the Netherlands.</h2>
+<h2 align="left">Hi 👋! My name is Sam and I'm a Software Develloper Student in ROC Almere from the Netherlands.</h2>
 
 ###
 
