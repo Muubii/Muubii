@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Sam and I'm a Software Develloper student at Windesheim Almere from the Netherlands</h2>
+<h2 align="left">Hi! My name is Sam and I'm a Software Developer student at Windesheim Almere from the Netherlands</h2>
 
 ###
 
