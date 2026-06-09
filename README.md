@@ -42,11 +42,8 @@ Focused on building scalable web apps, backend systems, and game server infrastr
 
 ---
 
-### Featured Projects (Add your best ones here)
+### Featured Projects 
 
-- Project Name — short one-line description (React, Node.js, etc.)  
-- Minecraft Network — custom server setup, plugins, configs  
-- Web App — authentication, database, API integration  
 
 ---
 
